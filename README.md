@@ -1,7 +1,7 @@
 # hello-words
 Meu primeiro Repositório! E um pouco sobre mim ^^.
 
-🤵 🏽<strong>Olá! Me chamo Matheus.</strong> </br>
+🤵 <strong>Olá! Me chamo Matheus.</strong> </br>
 </br>
 👀 <strong>Idade</strong>: Eu tenho 17 anos e faço 18 em março.</br>
 </br>
